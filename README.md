@@ -1,4 +1,5 @@
 # Super-mario-memory-game
+https://mina-sa.github.io/Super-mario-memory-game/
 My first sleepless night in my childhood was because of super mario bros. &lt;3 This is a simple memory game which flips the cards, looking for a match. 
 
 HTML structure -> div .game hold div .card -> that holds 2 images with diffrent classes. One is the front and the other the back face because there are on top of each other.
