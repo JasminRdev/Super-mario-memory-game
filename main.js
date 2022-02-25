@@ -108,5 +108,5 @@ const resetGame = document.querySelector("#box");
 const form = document.querySelector("#form");
 
 resetGame.addEventListener("click", () => {
-location.reload
+location.reload();
 });
